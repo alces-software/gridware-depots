@@ -1,0 +1,12 @@
+---
+:title: Example depot
+:summary: A depot that serves as an example
+:description: |
+  A depot that serves as an example.
+:root: https://s3-eu-west-1.amazonaws.com/packages.alces-software.com/gridware/%24dist
+:content:
+  - apps/igv/2.3.51
+  - apps/bowtie/1.1.0
+#  - libs/numpy/1.7.1
+#  - apps/bwa/0.5.9
+#  - libs/numpy_serial/1.7.1
