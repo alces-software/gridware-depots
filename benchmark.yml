@@ -1,0 +1,14 @@
+---
+:title: Benchmark
+:summary: A collection of popular benchmarking applications and utilities
+:description: |
+  A collection of popular benchmarking applications and utilities including
+  CPU, disk and memory testing applications.
+:root: https://s3-eu-west-1.amazonaws.com/packages.alces-software.com/gridware/%24dist
+:content:
+  - mpi/openmpi/1.8.5
+  - libs/atlas/3.10.2
+  - apps/memtester/4.3.0
+  - apps/iozone/3.420
+  - apps/imb/4.0
+  - apps/hpl/2.1
