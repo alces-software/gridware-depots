@@ -1,73 +1,85 @@
 ---
-:title:  Bioinformatics
+:title: Bioinformatics
 :summary: A collection of popular packages for bioinformatics
 :description: |
   A collection of popular tools, applications and utilies for
   bioinformatics research computing.
 :root: https://s3-eu-west-1.amazonaws.com/packages.alces-software.com/gridware/%24dist
 :content:
-  - mpi/openmpi/1.8.5
-  - apps/cmake/3.0.2
-  - apps/espressomd/3.1.2
-  - apps/gromacs/4.6.5
-  - apps/hdf5/1.8.13
-  - apps/openbabel/2.3.1
-  - apps/python/2.7.8
-  - apps/qhull/2012.1
-  - apps/setuptools/15.1
-  - libs/eigen/2.0.17
-  - libs/fftw3/3.3.3
-  - libs/pygtk/2.17.0
-  - apps/Q/13012015
-  - apps/bamtools/2.3.0
-  - apps/bcftools/1.3
-  - apps/bedtools/2.25.0
-  - apps/bowtie/1.1.0
-  - apps/bowtie2/2.2.6
-  - apps/breakdancer/1.3.5.1
-  - apps/bsoft/1.9.1
-  - apps/bwa/0.7.8
-  - apps/cortexcon/0.05
-  - apps/cufflinks/2.2.2.20150701
-  - apps/diffreps/20150410
-  - apps/ead/1.0.3
-  - apps/emboss/6.3.1
-  - apps/fastqscreen/0.4.1
-  - apps/fasttree/2.1.3
-  - apps/fastx/0.0.14
-  - apps/freebayes/1.0.2
-  - apps/hmmer/3.1b1
-  - apps/htseq/0.6.1p1
-  - apps/htslib/1.3
-  - apps/idr/2.0.2
-  - apps/khmer/2.0
-  - apps/macs/2.1.0.20150731
-  - apps/memesuite/4.11.1
-  - apps/nucleoatac/0.3.1
-  - apps/patchelf/0.9
-  - apps/picard/2.1.0
-  - apps/pycogent/1.5.3
-  - apps/pyprophet/0.18.3
-  - apps/rdpclassifier/2.2
-  - apps/samtools/0.1.18
-  - apps/samtools/0.1.19
-  - apps/samtools/1.3
-  - apps/screed/0.9
-  - apps/seqtk/1.0
-  - apps/soapdenovo/2r240
-  - apps/stampy/1.0.22.1848
-  - apps/star/2.4.2a
-  - apps/tax2tree/1.0
-  - apps/tophat/2.1.0
-  - apps/trimmomatic/0.35
-  - apps/trinity/2.2.0
-  - apps/vcftools/0.1.12b
-  - apps/velvet/1.2.10
-  - apps/viennarna/2.1.1
-  - libs/biomformat/1.1.2
-  - libs/bioperl/1.6.923
-  - libs/biopython/1.63
-  - libs/gtextutils/0.6
-  - libs/lasagne/20160403
-  - libs/pysam/0.8.3
-  - libs/seqan/1.4.1
+- apps/python/2.7.8
+- mpi/openmpi/1.10.2
+- libs/boost/1.60.0
+- apps/Q/13012015
+- apps/bamtools/2.3.0
+- apps/bcftools/1.3
+- apps/bedtools/2.25.0
+- apps/bowtie/1.1.0
+- apps/bowtie2/2.2.6
+- apps/samtools/0.1.18
+- apps/breakdancer/1.3.5.1
+- apps/perl/5.20.2
+- apps/bwa/0.7.8
+- apps/cortexcon/0.05
+- libs/boost/1.55.0
+- apps/samtools/0.1.19
+- apps/cufflinks/2.2.2.20150701
+- apps/diffreps/20150410
+- apps/python3/3.4.3
+- apps/ead/1.0.3
+- apps/emboss/6.3.1
+- apps/fastqscreen/0.4.1
+- apps/fasttree/2.1.3
+- apps/fastx/0.0.14
+- apps/freebayes/1.0.2
+- apps/hmmer/3.1b1
+- libs/atlas/3.10.2
+- apps/patchelf/0.9
+- libs/numpy/1.9.2
+- apps/htseq/0.6.1p1
+- apps/htslib/1.3
+- apps/python3/3.3.3
+- libs/numpy_python3/1.9.2
+- apps/setuptools_python3/15.1
+- libs/matplotlib_python3/1.4.3
+- libs/scipy_python3/0.17.0
+- apps/idr_python3/2.0.2
+- libs/numpy_python34/1.9.2
+- apps/setuptools_python34/15.1
+- libs/matplotlib_python34/1.4.3
+- libs/scipy_python34/0.17.0
+- apps/idr_python34/2.0.2
+- apps/screed/0.9
+- apps/khmer/2.0
+- apps/setuptools/15.1
+- apps/macs/2.1.0.20150731
+- apps/memesuite/4.11.1
+- apps/cython/0.23.4
+- libs/scipy/0.17.0
+- libs/pysam/0.8.3
+- libs/matplotlib/1.4.3
+- apps/nucleoatac/0.3.1
+- apps/picard/2.1.0
+- apps/pycogent/1.5.3
+- libs/pandas/0.17.0
+- libs/numexpr/2.4.4
+- apps/pyprophet/0.18.3
+- apps/rdpclassifier/2.2
+- apps/samtools/1.3
+- apps/seqtk/1.0
+- apps/soapdenovo/2r240
+- apps/stampy/1.0.22.1848
+- apps/star/2.4.2a
+- apps/tax2tree/1.0
+- apps/tophat/2.1.0
+- apps/trimmomatic/0.35
+- apps/trinity/2.2.0
+- apps/vcftools/0.1.12b
+- apps/velvet/1.2.10
+- apps/viennarna/2.1.1
+- libs/biomformat/1.1.2
+- libs/bioperl/1.6.923
+- libs/biopython/1.63
+- libs/gtextutils/0.6
+- libs/seqan/1.4.1
+- libs/theano/0.8.0
+- libs/lasagne/20160403

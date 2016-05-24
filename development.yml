@@ -6,50 +6,47 @@
   for development purposes.
 :root: https://s3-eu-west-1.amazonaws.com/packages.alces-software.com/gridware/%24dist
 :content:
-  - apps/R/3.2.3
-  - apps/anaconda3/2.5.0
-  - apps/cmake/3.4.3
-  - apps/cmake/3.5.2
-  - apps/cpanminus/1.5017
-  - apps/cython/0.23.4
-  - apps/ghc/7.8.2
-  - apps/gnuplot/5.0.2
-  - apps/grace/5.1.25
-  - apps/hdf5/1.8.13
-  - apps/jags/4.2.0
-  - apps/julia/0.4.3
-  - apps/julia/0.4.5
-  - apps/mono/3.0.6
-  - apps/perl/5.20.2
-  - apps/python/2.7.8
-  - apps/python3/3.3.3
-  - apps/python3/3.4.3
-  - apps/setuptools/2.1
-  - apps/setuptools/15.1
-  - apps/sip/4.16.3
-  - apps/tau/2.25.1
-  - compilers/gcc/5.1.0
-  - libs/atlas/3.10.2
-  - libs/blas/3.6.0
-  - libs/boost/1.55.0
-  - libs/boost/1.60.0
-  - libs/eigen/3.2.4
-  - libs/freetype/2.6.3
-  - libs/gmp/6.1.0
-  - libs/lapack/3.5.0
-  - libs/matplotlib/1.4.3
-  - libs/mpfr/3.1.4
-  - libs/numexpr/2.4.4
-  - libs/numpy/1.9.2
-  - libs/nvidia-cuda/7.5.18
-  - libs/opencv/2.4.12
-  - libs/opencv/2.4.9
-  - libs/pandas/0.17.0
-  - libs/protobuf/2.5.0
-  - libs/protobuf/2.6.1
-  - libs/pybigwig/0.2.7
-  - libs/scipy/0.17.0
-  - libs/suitesparse/4.5.1
-  - libs/tbb/4.4.20160128
-  - libs/theano/0.8.0
-  - libs/tkimg/1.4.2
+- apps/R/3.2.3
+- apps/anaconda3/2.5.0
+- apps/cmake/3.4.3
+- apps/cmake/3.5.2
+- apps/perl/5.20.2
+- apps/cpanminus/1.5017
+- apps/python/2.7.8
+- apps/cython/0.23.4
+- apps/ghc/7.8.2
+- apps/gnuplot/5.0.2
+- apps/grace/5.1.25
+- apps/hdf5_serial/1.8.13
+- apps/jags/4.2.0
+- apps/mono/3.0.6
+- apps/python3/3.3.3
+- apps/python3/3.4.3
+- apps/setuptools/2.1
+- apps/setuptools/15.1
+- apps/sip/4.16.3
+- mpi/openmpi/1.10.2
+- apps/tau/2.25.1
+- compilers/gcc/5.1.0
+- libs/atlas/3.10.2
+- libs/blas/3.6.0
+- libs/boost/1.55.0
+- libs/boost/1.60.0
+- libs/eigen/3.2.4
+- libs/freetype/2.6.3
+- libs/gmp/6.1.0
+- libs/lapack/3.5.0
+- libs/numpy/1.9.2
+- libs/matplotlib/1.4.3
+- libs/mpfr/3.1.4
+- apps/patchelf/0.9
+- libs/numexpr/2.4.4
+- libs/pandas/0.17.0
+- libs/protobuf/2.5.0
+- libs/protobuf/2.6.1
+- libs/pybigwig/0.2.7
+- libs/scipy/0.17.0
+- libs/suitesparse/4.5.1
+- libs/tbb/4.4.20160128
+- libs/theano/0.8.0
+- libs/tkimg/1.4.2
