@@ -7,7 +7,7 @@
 :root: https://s3-eu-west-1.amazonaws.com/packages.alces-software.com/gridware/%24dist
 :content:
 - apps/python/2.7.8
-- mpi/openmpi/1.10.2
+- mpi/openmpi/1.8.5
 - libs/boost/1.60.0
 - apps/Q/13012015
 - apps/bamtools/2.3.0

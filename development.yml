@@ -25,7 +25,7 @@
 - apps/setuptools/2.1
 - apps/setuptools/15.1
 - apps/sip/4.16.3
-- mpi/openmpi/1.10.2
+- mpi/openmpi/1.8.5
 - apps/tau/2.25.1
 - compilers/gcc/5.1.0
 - libs/atlas/3.10.2
