@@ -1,0 +1,29 @@
+---
+:title: chemistry
+:summary: A collection of popular packages for computational chemistry
+:description: |
+  A collection of popular tools, applications and utilties for
+  computational chemistry, including molecular dynamics (ESPResSo,
+  GROMACS, NAMD, NWChem, VMD), electronic structure calibration
+  (NWChem) and density functional theory (Octopus) methods.
+:root: https://s3-eu-west-1.amazonaws.com/packages.alces-software.com/gridware/%24dist
+:content:
+- mpi/openmpi/1.8.5
+- libs/fftw3_double/3.3.4
+- apps/espressomd/3.1.2
+- libs/fftw3_float/3.3.4
+- apps/cmake/3.5.2
+- apps/gromacs/4.6.5
+- libs/fftw2_float-mpi/2.1.5
+- apps/namd_mpi/2.8
+- libs/fftw2_float/2.1.5
+- apps/namd_net/2.8
+- libs/atlas/3.10.2
+- apps/nwchem/6.3
+- libs/lapack/3.5.0
+- libs/blas/3.6.0
+- libs/libxc/2.2.2
+- libs/gsl/1.16
+- apps/perl/5.20.2
+- apps/octopus/5.0.1
+- apps/vmd/1.9.1
