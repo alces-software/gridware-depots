@@ -1,0 +1,17 @@
+---
+:title: cfd
+:summary: A collection of popular packages for computational fluid dynamics
+:description: |
+  A collection of popular tools, applications and utilies for
+  performing computational fluid dynamics and visualizing the results.
+:root: https://s3-eu-west-1.amazonaws.com/packages.alces-software.com/gridware/%24dist
+:content:
+  - mpi/openmpi/1.8.5
+  - apps/python/2.7.8
+  - apps/cmake/3.5.2
+  - libs/mgridgen/1.0
+  - libs/boost/1.60.0
+  - libs/scotch/6.0.3
+  - apps/openfoam/3.0.1
+  - apps/paraview/4.3.1
+  - apps/codesaturne/4.0.5
